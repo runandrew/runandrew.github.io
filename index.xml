@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jan 2017 23:31:54 -0500</lastBuildDate>
+    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>portfolio redesign</title>
+      <link>http://example.org/projects/portfolio-redesign/</link>
+      <pubDate>Sat, 28 Jan 2017 23:31:54 -0500</pubDate>
+      
+      <guid>http://example.org/projects/portfolio-redesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10000ft</title>
+      <link>http://example.org/projects/10000ft/</link>
+      <pubDate>Sat, 28 Jan 2017 18:56:04 -0500</pubDate>
+      
+      <guid>http://example.org/projects/10000ft/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Uses the Wakatime and Jawbone APIs for health and coding data, respectively.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/hDg7Xf3i1Fc&#34;&gt;Link - Video Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ic3d industries</title>
+      <link>http://example.org/projects/ic3d-industries/</link>
+      <pubDate>Tue, 26 Jan 2016 18:57:56 -0500</pubDate>
+      
+      <guid>http://example.org/projects/ic3d-industries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cubic</title>
+      <link>http://example.org/projects/cubic/</link>
+      <pubDate>Tue, 27 Jan 2015 18:58:54 -0500</pubDate>
+      
+      <guid>http://example.org/projects/cubic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
