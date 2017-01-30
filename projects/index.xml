@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on My New Hugo Site</title>
-    <link>https://runandrew.github.io/projects/index.xml</link>
+    <link>/andrewgarcia.me/projects/index.xml</link>
     <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2017 23:31:54 -0500</lastBuildDate>
-    <atom:link href="https://runandrew.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/andrewgarcia.me/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>portfolio redesign</title>
-      <link>https://runandrew.github.io/projects/portfolio-redesign/</link>
+      <link>/andrewgarcia.me/projects/portfolio-redesign/</link>
       <pubDate>Sat, 28 Jan 2017 23:31:54 -0500</pubDate>
       
-      <guid>https://runandrew.github.io/projects/portfolio-redesign/</guid>
+      <guid>/andrewgarcia.me/projects/portfolio-redesign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>10000ft</title>
-      <link>https://runandrew.github.io/projects/10000ft/</link>
+      <link>/andrewgarcia.me/projects/10000ft/</link>
       <pubDate>Sat, 28 Jan 2017 18:56:04 -0500</pubDate>
       
-      <guid>https://runandrew.github.io/projects/10000ft/</guid>
+      <guid>/andrewgarcia.me/projects/10000ft/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Uses the Wakatime and Jawbone APIs for health and coding data, respectively.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://youtu.be/hDg7Xf3i1Fc&#34;&gt;Link - Video Demo&lt;/a&gt;&lt;/li&gt;
@@ -33,19 +33,19 @@
     
     <item>
       <title>ic3d industries</title>
-      <link>https://runandrew.github.io/projects/ic3d-industries/</link>
+      <link>/andrewgarcia.me/projects/ic3d-industries/</link>
       <pubDate>Tue, 26 Jan 2016 18:57:56 -0500</pubDate>
       
-      <guid>https://runandrew.github.io/projects/ic3d-industries/</guid>
+      <guid>/andrewgarcia.me/projects/ic3d-industries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cubic</title>
-      <link>https://runandrew.github.io/projects/cubic/</link>
+      <link>/andrewgarcia.me/projects/cubic/</link>
       <pubDate>Tue, 27 Jan 2015 18:58:54 -0500</pubDate>
       
-      <guid>https://runandrew.github.io/projects/cubic/</guid>
+      <guid>/andrewgarcia.me/projects/cubic/</guid>
       <description></description>
     </item>
     
