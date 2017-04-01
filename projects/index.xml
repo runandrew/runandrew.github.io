@@ -6,8 +6,22 @@
     <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2017 23:31:54 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2017 13:11:51 -0400</lastBuildDate>
     <atom:link href="http://andrewgarcia.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CodeHuddle</title>
+      <link>http://andrewgarcia.me/projects/code-huddle/</link>
+      <pubDate>Fri, 31 Mar 2017 13:11:51 -0400</pubDate>
+      
+      <guid>http://andrewgarcia.me/projects/code-huddle/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codehuddle.herokuapp.com&#34;&gt;Link - Live Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/bNRNRnjv4pY&#34;&gt;Link - Video Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CodehuddleFSA/codehuddle&#34;&gt;Link - Github Repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>portfolio redesign</title>
